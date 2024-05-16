@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Mustrid. Canvas kasutamine", "Mustrid. Canvas kasutamine.pyproj", "{DCE4646B-3A1D-458A-BF16-8C92294D0EDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE4646B-3A1D-458A-BF16-8C92294D0EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE4646B-3A1D-458A-BF16-8C92294D0EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CB7CBE4-1FE8-4DA5-9530-35790753265E}
+	EndGlobalSection
+EndGlobal
